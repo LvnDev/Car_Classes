@@ -12,12 +12,6 @@
         <p>
             <asp:Label ID="Label1" runat="server"></asp:Label>
         </p>
-        <p>
-            <asp:Label ID="Label2" runat="server"></asp:Label>
-        </p>
-        <p>
-            <asp:Label ID="Label3" runat="server"></asp:Label>
-        </p>
     </form>
 </body>
 </html>
